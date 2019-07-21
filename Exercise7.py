@@ -26,11 +26,6 @@ def list_manipulation(param1,param2,param3,param4=None):
 print(list_manipulation())
 
 
-
-
-
-
-
 # list = [1, 2, 3]
 # print(list)
 
