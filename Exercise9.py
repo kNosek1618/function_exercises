@@ -11,8 +11,6 @@ print(frequency())
 
 
 
-
-
 # x = [True, False, True, True]
 # frequencys = x.count(False)
 # print(frequencys)
